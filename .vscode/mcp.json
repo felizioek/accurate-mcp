@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "accurate": {
+      "command": "python",
+      "args": ["main.py"],
+      "cwd": "/Users/zio/Downloads/accurate-mcp"
+    }
+  }
+}

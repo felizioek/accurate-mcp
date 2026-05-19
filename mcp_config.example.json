@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "accurate": {
+      "command": "python",
+      "args": ["main.py"],
+      "cwd": "/absolute/path/to/accurate-mcp",
+      "env": {
+        "ACCURATE_API_KEY": "your_app_key",
+        "ACCURATE_API_SECRET": "your_api_secret",
+        "ACCURATE_BEARER_TOKEN": "your_bearer_token",
+        "ACCURATE_DB_ID": "your_db_id",
+        "ACCURATE_SERVER_CODE": "zeus"
+      }
+    }
+  }
+}
